@@ -1,10 +1,91 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Kabel LAN",
+    "kategori": "Perangkat Praktikum",
+    "kodeAlat": "LAB-001",
+    "jumlah": 20,
+    "kondisi": "baik"
+  },
+
+  {
+    "id": "2",
+    "judul": "Mikrotik Router",
+    "kategori": "Perangkat Praktikum",
+    "kodeAlat": "LAB-002",
+    "jumlah": 5,
+    "kondisi": "baik"
+  },
+
+  {
+    "id": "3",
+    "judul": "LAN Tester",
+    "kategori": "Perangkat Praktikum",
+    "kodeAlat": "LAB-003",
+    "jumlah": 10,
+    "kondisi": "baik"
+  },
+
+  {
+    "id": "4",
+    "judul": "Keyboard",
+    "kategori": "Perangkat LAB",
+    "kodeAlat": "LAB-004",
+    "jumlah": 50,
+    "kondisi": "baik"
+  },
+
+  {
+    "id": "5",
+    "judul": "Mouse",
+    "kategori": "Perangkat LAB",
+    "kodeAlat": "LAB-005",
+    "jumlah": 60,
+    "kondisi": "rusak"
+  },
+
+  {
+    "id": "6",
+    "judul": "Rak Server",
+    "kategori": "Perangkat Praktikum",
+    "kodeAlat": "LAB-006",
+    "jumlah": 1,
+    "kondisi": "baik"
+  },
+
+  {
+    "id": "7",
+    "judul": "Monitor",
+    "kategori": "Perangkat LAB",
+    "kodeAlat": "LAB-007",
+    "jumlah": 50,
+    "kondisi": "perlu servis"
+  },
+
+  {
+    "id": "8",
+    "judul": "Access Point",
+    "kategori": "Perangkat Praktikum",
+    "kodeAlat": "LAB-008",
+    "jumlah": 3,
+    "kondisi": "baik"
+  },
+
+  {
+    "id": "9",
+    "judul": "PC",
+    "kategori": "Perangkat LAB",
+    "kodeAlat": "LAB-009",
+    "jumlah": 50,
+    "kondisi": "perlu servis"
+  },
+
+  {
+    "id": "10",
+    "judul": "Switch",
+    "kategori": "Perangkat Praktikum",
+    "kodeAlat": "LAB-010",
+    "jumlah": 10,
+    "kondisi": "baik"
   }
 ]
